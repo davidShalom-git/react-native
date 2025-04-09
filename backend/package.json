@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev" : "nodemon src/Server.js",
-    "build": "npm install"
+    "dev" : "nodemon src/Server.js"
   },
   "keywords": [],
   "author": "",
